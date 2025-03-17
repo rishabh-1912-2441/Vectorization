@@ -1,4 +1,4 @@
-# Vectorization
+# OptionsVectorizer
 ## 📌 Project Overview
 
 This repository contains Python scripts for handling, processing, and retrieving financial data efficiently. Each script plays a crucial role in organizing and managing large-scale CSV datasets related to options trading.
